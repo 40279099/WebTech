@@ -1,0 +1,10 @@
+body {background-color:gray}
+h1 {background-color:gray; color:white}
+p {background-color:gray; color:white}
+textarea{
+	border:1px solid #999999;
+	width:50%;
+	margin:5px 0;
+	background-color:gray;
+	color:white;
+}
